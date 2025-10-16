@@ -8,7 +8,7 @@ Each project is organized into its own directory.
 
 ## Projects Completed
 
-- **[Chapter 2: Guessing Game](./chapter_1/)**: A classic number guessing game where the program picks a random number and the user has to guess it.
+- **[Chapter 2: Guessing Game](./Chapter2_guessing_game/)**: A classic number guessing game where the program picks a random number and the user has to guess it.
 
 - **[Chapter 12: Minigrep](./minigrep/)**: A simplified command-line tool that clones the functionality of `grep` to search for a string within a file.
 
